@@ -707,7 +707,8 @@ section {
 	padding-top: 9px;
 	position: absolute;
 	right: 0px;
-	padding-right: 0;
+	padding-right: 50px;
+	color: #301213;
 }
 
 .logo {
